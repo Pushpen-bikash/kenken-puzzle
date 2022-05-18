@@ -1,0 +1,13 @@
+4
+ABCC
+ABDE
+FFDE
+GGHH
+A:12*
+B:6*
+C:2/
+D:12*
+E:3-
+F:3+
+G:3-
+H:6*

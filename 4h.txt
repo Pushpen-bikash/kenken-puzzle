@@ -1,0 +1,12 @@
+4
+AABB
+CCDE
+FDDE
+FGGE
+A:1-
+B:5+
+C:2-
+D:6*
+E:9+
+F:2/
+G:3-
